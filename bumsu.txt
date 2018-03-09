@@ -1,4 +1,4 @@
-김범수
-영어통번역학과
-nothankmath@naver.com
+name:김범수
+major:영어통번역학과
+e-mail:nothankmath@naver.com
 github:suontheland
